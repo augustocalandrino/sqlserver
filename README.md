@@ -55,7 +55,7 @@ Stored procedures para efetuar um health check no banco de dados SQL Server e id
 
 ## sp_whoisactive
 
-[http://whoisactive.com/)](http://whoisactive.com/)
+[http://whoisactive.com/](http://whoisactive.com/)
 
 # Arquitetura do MS SQL Server
 
