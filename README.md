@@ -25,6 +25,11 @@ Um vasto material com artigos didáticos e práticos.
 
 [https://www.brentozar.com/](https://www.brentozar.com/)
 
+## Microsoft Learn
+Cursos rápidos de várias tecnologias Microsoft
+
+[https://docs.microsoft.com/en-us/learn/](https://docs.microsoft.com/en-us/learn/)
+
 # Ferramentas
 
 ## Sentry One Plan Explorer
@@ -55,9 +60,11 @@ Stored procedures para efetuar um health check no banco de dados SQL Server e id
 # Arquitetura do MS SQL Server
 
 ![sqlserver_architeture](https://social.msdn.microsoft.com/Forums/getfile/127035)
-Fonte: MSDN
+
+Fonte: MSDN ([https://msdn.microsoft.com/pt-br/](https://msdn.microsoft.com/pt-br/))
 
 # HA - Always ON
 
 ![alwayson](https://www.mssqltips.com/tipimages2/4717_Figure02.jpg)
+
 Fonte: MSQLTips ([https://www.mssqltips.com/](https://www.mssqltips.com/))
